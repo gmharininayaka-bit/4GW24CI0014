@@ -1,0 +1,9 @@
+git config --system user.name"harininayakagm"
+git config --system user.email"gmharininayaka@gmail.com"
+mkdir gitexp
+cd gitexp
+git init
+nano 1.txt
+git add 1.txt
+git commit -m"file 1"
+git log
